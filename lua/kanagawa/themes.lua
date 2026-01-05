@@ -95,7 +95,7 @@ return {
                 fg_reverse = palette.waveBlue1,
 
                 bg_dim     = palette.sumiInk1,
-                bg_gutter  = palette.sumiInk4,
+                bg_gutter  = 'none',
 
                 bg_m3      = palette.sumiInk0,
                 bg_m2      = palette.sumiInk1,
@@ -144,7 +144,7 @@ return {
                 keyword    = palette.oniViolet,
                 operator   = palette.boatYellow2,
                 preproc    = palette.waveRed, --lightBlue? deserves its own color
-                type       = palette.waveAqua2,
+                type       = palette.lightBlue,
                 regex      = palette.boatYellow2,
                 deprecated = palette.katanaGray,
                 comment    = palette.fujiGray,
@@ -203,7 +203,7 @@ return {
                 fg_reverse = palette.waveBlue1,
 
                 bg_dim     = palette.dragonBlack1,
-                bg_gutter  = palette.dragonBlack4,
+                bg_gutter  = 'none',
 
                 bg_m3      = palette.dragonBlack0,
                 bg_m2      = palette.dragonBlack1,
