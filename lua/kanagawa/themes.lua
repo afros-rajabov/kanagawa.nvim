@@ -131,7 +131,7 @@ return {
                 variable   = "none",
                 number     = palette.sakuraPink,
                 constant   = palette.surimiOrange,
-                identifier = palette.carpYellow,
+                identifier = palette.springBlue,
                 -- parameter  = "#C3B1B1",
                 -- parameter  = "#B1ADC8",
                 -- parameter  = "#b8b4d0",
@@ -142,7 +142,7 @@ return {
                 fun        = palette.crystalBlue,
                 statement  = palette.oniViolet,
                 keyword    = palette.oniViolet,
-                operator   = palette.boatYellow2,
+                operator   = palette.waveRed,
                 preproc    = palette.waveRed, --lightBlue? deserves its own color
                 type       = palette.lightBlue,
                 regex      = palette.boatYellow2,
